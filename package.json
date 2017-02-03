@@ -1,6 +1,6 @@
 {
   "name": "cerebro-fix-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fix $PATH",
   "license": "MIT",
   "repository": "cades/cerebro-fix-path",
